@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/heimasida-eddi/static/css/main.492d5152.css",
+    "main.js": "/heimasida-eddi/static/js/main.57377b76.js",
+    "static/js/787.9f961b81.chunk.js": "/heimasida-eddi/static/js/787.9f961b81.chunk.js",
+    "index.html": "/heimasida-eddi/index.html",
+    "main.492d5152.css.map": "/heimasida-eddi/static/css/main.492d5152.css.map",
+    "main.57377b76.js.map": "/heimasida-eddi/static/js/main.57377b76.js.map",
+    "787.9f961b81.chunk.js.map": "/heimasida-eddi/static/js/787.9f961b81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492d5152.css",
+    "static/js/main.57377b76.js"
+  ]
+}
